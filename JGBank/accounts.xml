@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accounts>
+    <account id="1">
+        <label>Current</label>
+        <balance>0</balance>
+        <accountNumber>1</accountNumber>
+        <clientNumber>1</clientNumber>
+        <name>firstName1 name1</name>
+    </account>
+
+    <account id="2">
+        <label>Saving</label>
+        <balance>0</balance>
+        <accountNumber>2</accountNumber>
+        <clientNumber>1</clientNumber>
+        <name>firstName1 name1</name>
+    </account>
+
+    <account id="3">
+        <label>Current</label>
+        <balance>0</balance>
+        <accountNumber>3</accountNumber>
+        <clientNumber>2</clientNumber>
+        <name>firstName2 name2</name>
+    </account>
+
+    <account id="4">
+        <label>Saving</label>
+        <balance>0</balance>
+        <accountNumber>4</accountNumber>
+        <clientNumber>2</clientNumber>
+        <name>firstName2 name2</name>
+    </account>
+
+    <account id="5">
+        <label>Current</label>
+        <balance>0</balance>
+        <accountNumber>5</accountNumber>
+        <clientNumber>3</clientNumber>
+        <name>firstName3 name3</name>
+    </account>
+
+    <account id="6">
+        <label>Saving</label>
+        <balance>0</balance>
+        <accountNumber>6</accountNumber>
+        <clientNumber>3</clientNumber>
+        <name>firstName3 name3</name>
+    </account>
+
+</accounts>

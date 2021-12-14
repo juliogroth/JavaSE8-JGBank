@@ -1,0 +1,10 @@
+{
+    "operation": "credit",
+    "accountType": "Current",
+    "fromId": "0",
+    "ammount": "100.50",
+    "toId": "0",
+    "statusTransf": "false",
+    "dateOfTransf": "2021-11-20"
+ }
+ 

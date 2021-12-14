@@ -1,0 +1,41 @@
+[  
+  {
+      "operation": "debit",
+      "accountType": "Current",
+      "fromId": "1",
+      "ammount": "50",
+      "toId": "1",
+      "statusTransf": "false",
+      "dateOfTransf": "2021-11-20"
+   },
+
+   {
+      "operation": "credit",
+      "accountType": "Current",
+      "fromId": "0",
+      "ammount": "100.50",
+      "toId": "0",
+      "statusTransf": "false",
+      "dateOfTransf": "2021-11-20"
+   },
+
+   {
+      "operation": "credit",
+      "accountType": "Saving",
+      "fromId": "0",
+      "ammount": "1500",
+      "toId": "0",
+      "statusTransf": "false",
+      "dateOfTransf": "2021-11-20"
+   },
+
+   {
+      "operation": "transfer",
+      "accountType": "Current",
+      "fromId": "1",
+      "ammount": "50",
+      "toId": "2",
+      "statusTransf": "false",
+      "dateOfTransf": "2021-11-20"
+   }
+]
